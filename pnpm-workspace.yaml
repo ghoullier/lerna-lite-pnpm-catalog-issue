@@ -11,4 +11,4 @@ catalog:
   "@lerna-lite/version": 4.4.1
   conventional-changelog-cli: 2.2.2
   conventional-changelog-conventionalcommits: 9.0.0
-  react: 19.0.0
+  react: 19.0.1
