@@ -1,0 +1,17 @@
+{
+  "name": "play-lerna-lite-pnpm",
+  "version": "1.0.0",
+  "scripts": {},
+  "packageManager": "pnpm@10.23.0",
+  "devDependencies": {
+    "@commitlint/cli": "catalog:",
+    "@commitlint/config-conventional": "catalog:",
+    "@commitlint/prompt": "catalog:",
+    "@lerna-lite/cli": "catalog:",
+    "@lerna-lite/publish": "catalog:",
+    "@lerna-lite/run": "catalog:",
+    "@lerna-lite/version": "catalog:",
+    "conventional-changelog-cli": "catalog:",
+    "conventional-changelog-conventionalcommits": "catalog:"
+  }
+}

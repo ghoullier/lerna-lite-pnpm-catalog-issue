@@ -1,0 +1,18 @@
+{
+  "command": {
+    "publish": {
+      "arboristLoadOptions": { "ignoreMissing": true }
+    },
+    "version": {
+      "allowBranch": ["main"],
+      "conventionalCommits": true,
+      "message": "chore(release): [do not build] publish"
+    }
+  },
+  "npmClient": "pnpm",
+  "useWorkspaces": true,
+  "version": "independent",
+  "changelogPreset": {
+    "name": "conventional-changelog-conventionalcommits"
+  }
+}

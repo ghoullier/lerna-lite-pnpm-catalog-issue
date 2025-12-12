@@ -1,0 +1,12 @@
+{
+  "name": "@play-lerna-lite-pnpm/app",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@play-lerna-lite-pnpm/shared": "workspace:*"
+  }
+}
