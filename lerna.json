@@ -1,7 +1,9 @@
 {
   "command": {
     "publish": {
-      "arboristLoadOptions": { "ignoreMissing": true }
+      "arboristLoadOptions": {
+        "ignoreMissing": true
+      }
     },
     "version": {
       "allowBranch": ["main"],
@@ -14,5 +16,6 @@
   "version": "independent",
   "changelogPreset": {
     "name": "conventional-changelog-conventionalcommits"
-  }
+  },
+  "$schema": "node_modules/@lerna-lite/cli/schemas/lerna-schema.json"
 }
