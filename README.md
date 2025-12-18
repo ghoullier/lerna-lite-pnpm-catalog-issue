@@ -1,5 +1,8 @@
 # lerna-lite-pnpm-catalog-issue
 
+> [!IMPORTANT]
+> [Pull Request](https://github.com/lerna-lite/lerna-lite/pull/1216) has been merged ✅
+
 > [!NOTE]
 > This repository is a test case for the [lerna-lite](https://github.com/lerna/lerna-lite) package.
 
